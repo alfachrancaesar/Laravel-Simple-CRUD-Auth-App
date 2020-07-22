@@ -1,6 +1,6 @@
 # **Simple CRUD App using Laravel Framework with Authentication**
 <br>
-Here are some brief steps to do it from scratch:
+Here are some brief steps to implement it from scratch: 
 
 **STEP 1**: Set Database <br>
 **STEP 2**: Make Migration <br>
