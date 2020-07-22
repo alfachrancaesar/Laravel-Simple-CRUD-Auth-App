@@ -1,11 +1,13 @@
-"Simple CRUD App using Laravel Framework with Authentication"
+# **Simple CRUD App using Laravel Framework with Authentication**
+<br>
+Here are some brief steps to do it from scratch:
 
-STEP 1: Set Database
-STEP 2: Make Migration
-STEP 3: Edit Table
-STEP 4: Database Migration
-STEP 5: Create Model
-STEP 6: Create Controller (CRUD)
-STEP 7: Create Views (Index & Edit)
-STEP 8: Create Authentication (Login & Register)
-STEP 9: Define Authentication Routes
+**STEP 1**: Set Database <br>
+**STEP 2**: Make Migration <br>
+**STEP 3**: Edit Table <br>
+**STEP 4**: Database Migration <br>
+**STEP 5**: Create Model <br>
+**STEP 6**: Create Controller (CRUD) <br>
+**STEP 7**: Create Views (Index & Edit) <br>
+**STEP 8**: Create Authentication (Login & Register) <br>
+**STEP 9**: Define Authentication Routes <br>
